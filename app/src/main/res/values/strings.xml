@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="introduction">Click on specific image to choose Rock, Paper or Scissors</string>
+    <string name="rock_rock">Computer selected rock as well. It\'s draw</string>
+    <string name="rock_paper">Computer selected paper. You lose!</string>
+    <string name="rock_scissors">Fortunately computer selected scissors. You win</string>
+    <string name="paper_rock">Computer selected rock. You win</string>
+    <string name="paper_paper">Computer selected paper too. It\'s draw</string>
+    <string name="paper_scissors">Computer selected scissors. You lose</string>
+    <string name="scissors_rock">Computer selected rock. You lose</string>
+    <string name="scissors_paper">Computer selected paper. You win</string>
+    <string name="scissors_scissors">Computer selected scissors as well. It\'s draw</string>
+    <string name="score">Score: %d</string>
+</resources>
