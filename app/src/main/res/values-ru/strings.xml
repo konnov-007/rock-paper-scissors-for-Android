@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Камень Ножницы Бумага</string>
+    <string name="introduction">Кликните на картинку, чтобы выбрать камень, ножницы или бумагу</string>
+    <string name="rock_rock">Компьютер так же выбрал камень. Ничья!</string>
+    <string name="rock_paper">Компьютер выбрал бумагу. Вы проиграли!</string>
+    <string name="rock_scissors">К счастью, компьютер выбрал ножницы. Победа!</string>
+    <string name="paper_rock">Компьютер выбрал камень. Вы победили!</string>
+    <string name="paper_paper">Компьютер так же выбрал бумагу. Ничья</string>
+    <string name="paper_scissors">Компьютер выбрал ножницы. Вы проиграли</string>
+    <string name="scissors_rock">Компьютер выбрал камень. Вы проиграли</string>
+    <string name="scissors_paper">Компьютер выбрал бумагу. Вы победили!</string>
+    <string name="scissors_scissors">Компьютер так же выбрал ножницы. Ничья!</string>
+    <string name="score">Счёт: %d</string>
+</resources>
